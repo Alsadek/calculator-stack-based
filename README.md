@@ -1,2 +1,2 @@
 # calculator-stack-based
-A simple stack based calculator for study.
+an application converts infix expression to postfix then calculate the value
