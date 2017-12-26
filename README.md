@@ -1,2 +1,2 @@
 # calculator-stack-based
-A simple stack based software virtual machine for study.
+A simple stack based calculator for study.
